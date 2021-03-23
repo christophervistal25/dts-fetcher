@@ -1,0 +1,26 @@
+-- DATA --
+transaction_no => 2021-03-00001
+pr_date => 2021-03-22
+pr_office => PGO
+pr_liason => JOEY GARCIA
+particulars_total_amount => 1.00
+pr_purpose => FOR ITU USE
+pr_charge_to => GENERALFUND
+pr_current_department => PGSO
+pr_station => 1001
+
+-- HISTORY --
+user_id => 2
+datetime => 2021-03-22 11:22:23
+data_id => 1
+pr_current_department => PGSO -- USE THE DATA
+pr_station => 1001 -- USE THE DATA
+
+-- PARTICULARS --
+data_id => 1 -- USE THE HISTORY
+item_no => 1
+quantity => 1
+unit_of_issue => UNIT
+description => LAPTOP ASUS X455L
+estimated_unit_cost => 45000.00
+estimated_total_cost => 45000.00
